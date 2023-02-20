@@ -1,1 +1,1 @@
-# remove-duplicates-from-sorted-array
+# Students grade
